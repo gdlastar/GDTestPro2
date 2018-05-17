@@ -1,0 +1,3 @@
+rootProject.name = 'GDTestPro2'
+
+include ':app'
