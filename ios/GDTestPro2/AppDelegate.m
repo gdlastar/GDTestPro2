@@ -5,8 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-// 555555
-#import "AppDelegate.h"
+// 트
+#i트port "AppDelegate.h"
 
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
